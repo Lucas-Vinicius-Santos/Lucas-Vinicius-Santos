@@ -1,9 +1,7 @@
 
 # Hello world
 
-#Lucas Santos
-
-## Olá pessoal 👋
+## Lucas Santos
 I love to solve problems using programming.
 I'm a FullStack Developer :computer:
 

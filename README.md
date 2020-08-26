@@ -12,4 +12,3 @@ I'm a FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-lucasparaipaba113@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasparaipaba113@gmail.com)](mailto:lucasparaipaba113@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=SuiciniVz&color=blue)

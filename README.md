@@ -1,12 +1,27 @@
+## </Lucas Santos> 
 
-## Lucas Santos
-I love to solve problems using programming.
-I'm a FullStack Developer :computer:
+<img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vinicius-Santos&count_private=true&theme=radical"/> 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
- - :book: &nbsp; student at school **Eeep Flavio Gomes Granjeiro**
- - :seedling: &nbsp; I’m currently learning AngularJS, Node.js, & Typescript
- - :purple_heart: &nbsp; I’m looking to collaborate on projects Front-end 
- - :mailbox_with_mail: &nbsp; How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LucasSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-vinicius.santoss.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.santoss.dev@gmail.com)](mailto:vinicius.santoss.dev@gmail.com)
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp; Sobre mim  
+  - :computer:&nbsp; Desenvolvedor Full Stack  
+  - :book: &nbsp; Estudando na escola **Eeep Flavio Gomes Granjeiro**
+  - :seedling: &nbsp; Atualmente estudando 
+ 
+      > **AngularJS, Node, & Typescript** 
+  - :purple_heart: &nbsp; Buscando contribuir em projetos Front-end
+  - :mailbox_with_mail: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/)  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.santoss.dev@gmail.com)](mailto:vinicius.santoss.dev@gmail.com)
+ 
 
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp; Tecnologias e ferramentas
+ <p>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/github.png"/> </br>  
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ 
+</p>

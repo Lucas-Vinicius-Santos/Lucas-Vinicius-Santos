@@ -8,7 +8,7 @@
   - :book: &nbsp; Estudando na escola **Eeep Flavio Gomes Granjeiro**
   - :seedling: &nbsp; Atualmente estudando 
  
-      > **AngularJS, Node, & Typescript** 
+      > **Angular, Node, & Typescript** 
   - :purple_heart: &nbsp; Buscando contribuir em projetos Front-end
   - :mailbox_with_mail: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/)  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.santoss.dev@gmail.com)](mailto:vinicius.santoss.dev@gmail.com)
  

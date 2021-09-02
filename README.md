@@ -8,7 +8,7 @@
   - :book: &nbsp; Estudando na escola **Eeep Flavio Gomes Granjeiro**
   - :seedling: &nbsp; Atualmente estudando 
  
-      > **Angular, Node & Typescript** 
+      > **React, Node & Typescript** 
   - :purple_heart: &nbsp; Buscando contribuir em projetos Front-end
   - :mailbox_with_mail: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/lucas-santos-4519aa1b0/)](https://www.linkedin.com/in/lucas-santos-4519aa1b0/)  &nbsp; [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.santoss.dev@gmail.com)](mailto:vinicius.santoss.dev@gmail.com)
  
@@ -18,6 +18,7 @@
  <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/> 
+  <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>  
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>

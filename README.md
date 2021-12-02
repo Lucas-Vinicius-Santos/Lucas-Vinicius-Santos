@@ -4,7 +4,7 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp; Sobre mim  
-  - :computer:&nbsp; Desenvolvedor Full Stack  
+  - :computer:&nbsp; Desenvolvedor Front-end
   - :book: &nbsp; Estudando na escola **Eeep Flavio Gomes Granjeiro**
   - :seedling: &nbsp; Atualmente estudando 
  

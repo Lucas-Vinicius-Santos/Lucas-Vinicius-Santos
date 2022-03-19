@@ -1,10 +1,10 @@
-## </Lucas Santos> 
 
-<img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vinicius-Santos&count_private=true&theme=radical"/> 
+## </Lucas Santos> 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 
+
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">&nbsp; Sobre mim  
-  - :computer:&nbsp; Desenvolvedor Front-end
+  - :computer:&nbsp; Desenvolvedor Full stack
   - :book: &nbsp; Atualmente estudando 
       > **Angular, PHP & Typescript** 
   - :purple_heart: &nbsp; Buscando contribuir em projetos Front-end
@@ -23,3 +23,9 @@
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  
 </p>
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Vinicius-Santos&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Vinicius-Santos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
